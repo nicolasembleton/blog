@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1 class="mr-2">Mingalaba</h1>
+      <h1 class="mr-2">"Spring is Coming"</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -41,29 +41,23 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
+        "Spring is Coming". This blog is a testament to my optimistic ramblings and musings about changes coming, and
+        what it would take to grow into a healthier, happier society. Whether at work, at home, or as a society at large.
+        I am of the opinion that we often focus on the problems that exist, but we do not spend enough time thinking
+        about what to do when we have the chance to build. I am nobody to pretend I know how, but I am hoping that I can
+        provide a little bit of help, whether it is through technology, coaching, ideas or thoughts.
+        If you want to know what's in my head and the things that I come across that go in this direction, then follow
+        me and hopefully we'll foster a community that does a little bit to build the right way when we get a chance.
       </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
-      {
-        // only display if at least one social link is enabled
-        socialCount > 0 && (
-          <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
+      <!--{-->
+      <!--  // only display if at least one social link is enabled-->
+      <!--  socialCount > 0 && (-->
+      <!--    <div class="social-wrapper">-->
+      <!--      <div class="social-links">Social Links:</div>-->
+      <!--      <Socials />-->
+      <!--    </div>-->
+      <!--  )-->
+      <!--}-->
     </section>
 
     <Hr />

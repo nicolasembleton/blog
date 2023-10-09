@@ -3,34 +3,30 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I am a Technical person at the intersection with Business, Product and Management.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Interests
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+My interests lie in 2 major areas and their intersections:
 
-## Features
+1. Technology
+   1. Blockchains, its applications and its economy
+   2. Gaming (Godot, 3D, Voxels, Procedural Generation, VR)
+2. Society
+   1. Governance
+   2. Network States
+   3. Productive Harmony and the principles of Motivation
 
-Here are certain features of this site.
+## Past Works
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+I have done quite a few things in my 15+ years career. The things I am the most proud of are:
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+1. C++ 3D Game engine back at University
+2. Fostered an engineering team that survived the test of time, even without me
+3. Animated 50+ tech meetups, coached and mentored a good number of people
+4. Wrote multiple essays on various topics, from societal to organizational
+5. Polyglot
